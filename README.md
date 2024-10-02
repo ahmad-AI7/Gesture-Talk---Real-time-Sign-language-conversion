@@ -1,4 +1,6 @@
-Gesture Talk - Sign Language Conversion System (Android App)
+**Gesture Talk - Sign Language Conversion System (Android App)**
+
+
 Gesture Talk is an AI-powered Android application designed to assist in converting sign language gestures into text and speech. This project aims to enhance communication between individuals who use sign language and those who do not, by providing a user-friendly platform for real-time gesture recognition and conversion.
 
 Features
